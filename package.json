@@ -1,0 +1,12 @@
+{
+  "name": "curriculomeu",
+  "version": "1.0.0",
+  "description": "Todo os meus dados como eletricista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marco Antônio da Silva",
+  "license": "ISC"
+}
