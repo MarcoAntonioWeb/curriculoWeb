@@ -69,9 +69,9 @@ body {
           overflow: hidden;
           position: relative;
           margin: auto;
-          transform: rotate(50deg);
-          -moz-transform: rotate(50deg);
-          -webkit-transform: rotate(50deg);
+          transform: rotate(75deg);
+          -moz-transform: rotate(75deg);
+          -webkit-transform: rotate(75deg);
         }
         
         .img-avata img {
