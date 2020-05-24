@@ -5,4 +5,4 @@
  O meu nome é Marco Antônio da Silva, atuo hoje como Eletricista Predial, em Brasília - DF, pela empresa World Soluções Elétrica. Especializada na área da Construção Civil, Elétrica, Hidráulica, CFTV e Automação Residencial. Com "Curso de eletrónica de TVs e monitores de computadores, pela Burgos Eletrónicas; Curso de CFTV pela Segurimax, e também Curso de Eletricista com NR10, pela Educa Treinamentos". Trabalhei como terceirizado pela empresa RCS Tecnologia, prestando serviço para o órgão MPDFT em Brasília - DF. 
  
  ## Avatar
- <img src="img/fotoAvata.jpeg" alt="Imagem Avata" style="width: 40px; height: 40px;">
+ <img src="img/fotoAvata.jpeg" alt="Imagem Avata" style="width: 40px; height: 40px">
